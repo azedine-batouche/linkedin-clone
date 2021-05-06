@@ -17,8 +17,11 @@ function SideBar() {
           alt='user_image'
         />
         <Avatar />
-        <h2>Batouche Azedine</h2>
-        <h4>azedine.batouche@outlook.com</h4>
+
+        <h2>Karl Smith</h2>
+        <h4>karl.smith@outlook.com</h4>
+
+
       </div>
       <div className='sidebar__stats'>
         <div className='sidebar__stat'>

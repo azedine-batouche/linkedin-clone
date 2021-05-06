@@ -21,6 +21,7 @@ function SideBar() {
         <h2>Karl Smith</h2>
         <h4>karl.smith@outlook.com</h4>
 
+
       </div>
       <div className='sidebar__stats'>
         <div className='sidebar__stat'>

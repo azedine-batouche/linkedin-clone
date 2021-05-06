@@ -23,6 +23,7 @@
   align-items: center;
   border-radius: 5px;
   color: gray;
+  min-width: 300px;
   background-color: #eef3f8;
 }
 .header__search > input {

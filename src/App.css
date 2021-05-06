@@ -8,3 +8,7 @@
 .app_body {
   display: flex;
 }
+
+.columSpace {
+  flex: 0.2;
+}
